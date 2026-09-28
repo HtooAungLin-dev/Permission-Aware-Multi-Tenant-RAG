@@ -1,0 +1,6 @@
+{
+  "name": "Permission-Aware Multi-Tenant RAG",
+  "description": "Zero-leak multi-tenant RAG service with pre-retrieval vector ACL filtering, verified token identity, defense-in-depth verification, audit logging, and automated adversarial leakage test suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
